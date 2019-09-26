@@ -71,7 +71,6 @@ html{
 }
 hr {
     width: 95%;
-    align: center;
 }
 .content-wrap { 
     width: 100%;
@@ -108,8 +107,6 @@ input[type=submit] {
     width: 10%;
     height: 5vh;
 }   
-
-}
 /*--Footer--*/
 #footer >p {
     position: fixed;

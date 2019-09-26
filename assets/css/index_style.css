@@ -71,7 +71,6 @@ html{
 }
 hr {
     width: 95%;
-    align: center;
 }
 .content-wrap { 
     width: 100%;
@@ -92,6 +91,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     margin: 120 px 0px;
+    text-align:left;
 }
 img {
     width: 200px;
